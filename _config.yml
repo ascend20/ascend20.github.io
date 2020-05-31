@@ -2,7 +2,7 @@
 title: Our Newsletter
 SEOTitle: Weekly Newsletter
 header-img: img/post-bg-desk.jpg
-email: xxxxxxxx@gmail.com
+# email: xxxxxxxx@gmail.com
 description: "Ascending"
 keyword: "Weekly"
 url: "https://ascend20.github.io/"          # your host, for absolute URL
@@ -83,8 +83,8 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+# featured-tags: true                     # 是否使用首页标签
+# featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Sina Blog",
+        title: "SINA BLOG",
         href: "http://blog.sina.com.cn/u/1644402183"
     },{
         title: "Bing",
