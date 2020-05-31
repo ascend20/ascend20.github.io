@@ -11,7 +11,7 @@ github_repo: "https://github.com/ascend20/ascend20.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "open in 2020"
+sidebar-about-description: "SINA BLOG (原新浪博客) http://blog.sina.com.cn/u/1644402183"
 sidebar-avatar: /img/180.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
